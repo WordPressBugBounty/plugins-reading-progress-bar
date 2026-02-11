@@ -3,7 +3,7 @@ Contributors: audrasjb,whodunitagency,maxpertici
 Donate link: https://www.paypal.me/audrasjb
 Tags: reading, progressbar, progress, scroll, indicator
 Requires at least: 4.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 1.3
 License: GPLv2
